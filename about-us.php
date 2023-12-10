@@ -273,6 +273,22 @@
         </div>
     </section>
 
+    <section class="banner">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <div class="banner_block">
+                        <img src="./images/banner.jpg" />
+                        <h3>Enhance your property's curb appeal with stunning landscape design.</h3>
+                        <p>Contact us today for expert design solutions that elevate your interiors, enhance your landscape, and bring your vision to life.</p>
+                        <a href="./contact">Get in touch</a>
+                        <a href="./contact">Online consultations</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php
         define('footer', TRUE);
         include 'inc/footer.php';
