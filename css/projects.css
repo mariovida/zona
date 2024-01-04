@@ -5,6 +5,15 @@
 .projects .row {
   --bs-gutter-x: 6rem;
 }
+/* PROJECTS PAGE */
+.all_projects {
+  padding-top: 0;
+  background-color: transparent;
+}
+.all_projects .row {
+  --bs-gutter-x: 3rem;
+}
+
 .projects_box {
   text-decoration: none;
   color: var(--vz-main);

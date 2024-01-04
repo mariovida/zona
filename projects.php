@@ -25,5 +25,59 @@
             </div>
         </div>
     </section>
+
+    <section class="projects all_projects">
+        <div class="wrapper">
+            <div class="row mb-60">
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_1.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Las Vegas, USA / 2019</span>
+                        <p>Harmony Park Residence</p>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_2.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Liverpool, United Kingdom / 2021</span>
+                        <p>Azure Waters Apartments</p>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_3.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Alicante, Spain / 2023</span>
+                        <p>Serenity Skies Home</p>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_4.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Quito, Ecuador / 2020</span>
+                        <p>Tranquil Haven Residences</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <?php
+        define('footer', TRUE);
+        include 'inc/footer.php';
+    ?>
 </body>
 </html>
