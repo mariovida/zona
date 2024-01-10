@@ -220,6 +220,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_1.jpg" />
                         </div>
+                        <h6>Commercial</h6>
+                        <p>Discover our expertise in commercial architecture, including office buildings, retail spaces, and mixed-use developments.</p>
                     </div>
                 </div>
                 <div class="col-4">
@@ -227,6 +229,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_2.jpg" />
                         </div>
+                        <h6>Residential</h6>
+                        <p>Our portfolio of residential projects, from single-family homes to multi-unit developments, designed to create living spaces.</p>
                     </div>
                 </div>
                 <div class="col-4">
@@ -234,6 +238,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_3.jpg" />
                         </div>
+                        <h6>Hospitality</h6>
+                        <p>Discover our expertise in commercial architecture, including office buildings, retail spaces, and mixed-use developments.</p>
                     </div>
                 </div>
                 <div class="col-4">
@@ -241,6 +247,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_4.jpg" />
                         </div>
+                        <h6>Civic & Cultural</h6>
+                        <p>Where we celebrate the unique identity & heritage of each community while creating inclusive spaces for learning.</p>
                     </div>
                 </div>
                 <div class="col-4">
@@ -248,6 +256,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_5.jpg" />
                         </div>
+                        <h6>Urban Planning</h6>
+                        <p>Explore our urban planning projects, where we collaborate with communities and stakeholders to design sustainable.</p>
                     </div>
                 </div>
                 <div class="col-4">
@@ -255,6 +265,8 @@
                         <div class="sectors_box-image">
                             <img src="./images/sector_6.jpg" />
                         </div>
+                        <h6>Healthcare</h6>
+                        <p>Where we prioritize patient comfort, staff efficiency, and cutting-edge technology to create healing environments.</p>
                     </div>
                 </div>
             </div>
