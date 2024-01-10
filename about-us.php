@@ -193,11 +193,68 @@
                     </div>
                 </div>
                 <div class="col-6 d-flex flex-column justify-content-center" style="margin-top:-65px">
-                    <h2>United by passion, our team is dedicated to shaping spaces that inspire and enrich lives.</h2>
+                    <h2 class="fw-400">United by passion, our team is dedicated to shaping spaces that inspire and enrich lives.</h2>
                     <p>Our team is our greatest asset. Comprised of talented architects, designers, engineers, and support staff, we are united by a shared passion for design excellence and a commitment to exceeding client expectations.</p>
                     <div class="quote">
                         <p>Alexander Stone</p>
                         <span>CEO & Founder</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sectors">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <h6><img src="./assets/sub-icon.svg" />SPHERES</h6>
+                </div>
+                <div class="col-12">
+                    <h3>Our Sectors</h3>
+                </div>
+            </div>
+            <div class="row" style="--bs-gutter-x:4rem;--bs-gutter-y:4rem">
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_1.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_2.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_3.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_4.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_5.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="sectors_box">
+                        <div class="sectors_box-image">
+                            <img src="./images/sector_6.jpg" />
+                        </div>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,13 @@
+.sectors {
+  padding: 100px 0;
+}
+.sectors_box-image {
+  height: 250px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.sectors_box-image img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
