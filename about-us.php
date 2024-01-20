@@ -192,7 +192,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 d-flex flex-column justify-content-center">
+                <div class="col-6 d-flex flex-column justify-content-center" style="margin-top:-65px">
                     <h2>United by passion, our team is dedicated to shaping spaces that inspire and enrich lives.</h2>
                     <p>Our team is our greatest asset. Comprised of talented architects, designers, engineers, and support staff, we are united by a shared passion for design excellence and a commitment to exceeding client expectations.</p>
                     <div class="quote">
