@@ -1,5 +1,6 @@
 .members {
-  padding: 60px 0;
+  padding: 100px 0;
+  background-color: var(--vz-beige);
 }
 .members_image {
   height: 380px;
