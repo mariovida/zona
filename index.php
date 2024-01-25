@@ -158,8 +158,9 @@
                 <div class="col-12">
                     <h6><img src="./assets/sub-icon.svg" />WHAT WE DO</h6>
                 </div>
-                <div class="col-12">
+                <div class="col-12 mb-30 d-flex align-items-center justify-content-between">
                     <h3>Our Services</h3>
+                    <a href="./services">View all<img src="./assets/btn-arrow.svg" /></a>
                 </div>
             </div>
             <div class="row">
@@ -360,6 +361,9 @@
                     <div class="banner_block">
                         <img src="./images/banner.jpg" />
                         <h3>Enhance your property's curb appeal with stunning landscape design.</h3>
+                        <p>Contact us today for expert design solutions that elevate your interiors, enhance your landscape, and bring your vision to life.</p>
+                        <a href="">Get in touch</a>
+                        <a href="">Online consultations</a>
                     </div>
                 </div>
             </div>

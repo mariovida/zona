@@ -7,10 +7,9 @@
             <a href="./"><img src="./assets/logo.svg" /></a>
         </div>
         <div class="nav-buttons d-flex align-items-center gap-4">
-            <a href="">About</a>
-            <a href="">Projects</a>
-            <a href="">Services</a>
-            <a href="">Reviews</a>
+            <a href="./about-us">About</a>
+            <a href="./projects">Projects</a>
+            <a href="./services">Services</a>
             <a href="">Contact us</a>
         </div>
     </div>

@@ -84,6 +84,24 @@ h6 {
   color: var(--vz-gray-700);
 }
 
+/* PAGE TITLE */
+.page_title {
+  padding: 60px 0;
+}
+.page_title h2 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.page_title hr {
+  border-width: 2px;
+  color: var(--vz-main);
+}
+.page_title p {
+  max-width: 1000px;
+  width: 100%;
+  color: var(--vz-gray-700);
+}
+
 /* ANIMATION */
 .hide-image {
   height: 0 !important;

@@ -1,6 +1,35 @@
 .services {
   padding: 40px 0 60px 0;
 }
+.services h3 {
+  line-height: 36px;
+  margin-bottom: 0;
+}
+.services a {
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  line-height: 16px;
+  text-decoration: none;
+  color: var(--vz-main);
+  padding: 9px 27px;
+  border: 1px solid var(--vz-main);
+  border-radius: 20px;
+  transition: 0.3s;
+}
+.services a img {
+  width: 15px;
+  height: 15px;
+  margin-left: 8px;
+  transition: 0.3s;
+}
+.services a:hover {
+  color: var(--vz-white);
+  background-color: var(--vz-main);
+}
+.services a:hover img {
+  filter: invert(100%);
+}
 .services_box {
   display: flex;
   flex-direction: column;

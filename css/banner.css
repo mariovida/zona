@@ -3,7 +3,7 @@
 }
 .banner_block {
   position: relative;
-  height: 550px;
+  height: 500px;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -11,13 +11,41 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: bottom;
+  /*object-position: bottom;*/
 }
-.banner_block h3 {
+.banner_block h3,
+.banner_block p {
   width: 600px;
   position: absolute;
-  top: 50px;
+  top: 60px;
   left: 50px;
-  color: var(--vz-white);
+  color: var(--vz-main);
+  font-weight: 500;
   line-height: 38px;
+}
+.banner_block p {
+  width: 450px;
+  top: 180px;
+  color: var(--vz-gray-800);
+  line-height: 20px;
+}
+.banner_block a {
+  position: absolute;
+  bottom: 60px;
+  left: 50px;
+  display: block;
+  font-family: ff-secondary;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: none;
+  color: var(--vz-gray-700);
+  padding: 10px 26px;
+  background: rgba(255, 255, 255, 0.44);
+  border-radius: 30px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.9px);
+}
+.banner_block a:last-of-type {
+  left: 210px;
 }
