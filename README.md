@@ -8,4 +8,6 @@ This project is an innovative architectural portfolio website developed for ZONA
 
 ## Features
 
-    - **Portfolio Showcase:** Explore a diverse range of architectural projects, each highlighting our unique design philosophy and expertise.
+- **Portfolio Showcase:** Explore a diverse range of architectural projects, each highlighting the unique design philosophy and expertise.
+- **History:** Learn about the rich history of ZONA, from its establishment in 2008 to its evolution as a trusted name in the industry.
+- **Services:** Discover the comprehensive range of architectural services offered by [Company Name], tailored to meet the diverse needs of our clients.
