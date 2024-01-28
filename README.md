@@ -1,6 +1,6 @@
 <h1 align="center">ZONA - Architecture company</h1>
 
-![Showcase](mockups/mockup_1.png)
+![Showcase](mockups/mockup_4.png)
 
 ## Overview
 
