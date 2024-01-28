@@ -10,7 +10,7 @@
             <a href="./about-us">About</a>
             <a href="./projects">Projects</a>
             <a href="./services">Services</a>
-            <a href="">Contact us</a>
+            <a href="./contact">Contact us</a>
         </div>
     </div>
 </nav>

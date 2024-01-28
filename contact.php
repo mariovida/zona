@@ -26,6 +26,56 @@
         </div>
     </section>
 
+    <section class="contact">
+        <div class="wrapper">
+            <div class="row" style="--bs-gutter-x:4rem">
+                <div class="col-7 d-flex flex-column justify-content-center">
+                    <div class="contact-form">
+                        <p>We'll explore design possibilities and discuss potential challenges,<br/>and outline a strategic plan to move forward.</p>
+                        <form action="" method="POST">
+                            <div class="d-flex justify-content-between gap-5">
+                                <div>
+                                    <label for="fname">First name</label><br>
+                                    <input type="text" id="fname" placeholder="Enter your first name"><br>
+                                </div>
+                                <div>
+                                    <label for="lname">Last name</label><br>
+                                    <input type="text" id="lname" placeholder="Enter your last name"><br>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between gap-5">
+                                <div>
+                                    <label for="email">Email Address</label><br>
+                                    <input type="text" id="email" placeholder="Enter your email address"><br>
+                                </div>
+                                <div>
+                                    <label for="phone">Phone number</label><br>
+                                    <input type="text" id="phone" placeholder="Enter your phone number"><br>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between gap-5">
+                                <div>
+                                    <label for="message">Text message</label><br>
+                                    <textarea id="message" rows="4" placeholder="Enter your message"></textarea>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between gap-5 mb-0">
+                                <div>
+                                    <input type="submit" value="Submit">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-5">
+                    <div class="contact-image">
+                        <img src="./images/consultation.jpg" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php
         define('footer', TRUE);
         include 'inc/footer.php';

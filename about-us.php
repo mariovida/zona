@@ -273,6 +273,84 @@
         </div>
     </section>
 
+    <section class="faq">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <h6><img src="./assets/sub-icon.svg" />FAQ’S</h6>
+                </div>
+                <div class="col-12">
+                    <h3>Frequently Asked Questions</h3>
+                </div>
+            </div>
+            <div class="row" style="--bs-gutter-x:4rem">
+                <div class="col-6">
+                    <div class="faq-image">
+                        <img src="./images/experties_2.jpg" />
+                    </div>
+                </div>
+                <div class="col-6 d-flex align-items-center">
+                    <div class="accordion">
+                        <div class="accordion-item">
+                            <div class="accordion-link" style="padding-top:0">
+                                <h5><span>1</span>What services does your company offer?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>Our company offers a comprehensive range of architectural services, including residential design, commercial architecture, interior architecture, urban planning, sustainable design, renovation, and restoration.</p>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-link">
+                                <h5><span>2</span>How long does a typical project take to complete?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>Project timelines vary depending on the complexity of the project and other factors such as approvals and permits. We provide estimated timelines during the initial consultation phase.</p>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-link">
+                                <h5><span>3</span>Do you work with specific types of clients or projects?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>We work with a diverse range of clients across various industries, including homeowners, developers, businesses, institutions, and government agencies. Our expertise extends to projects of all types and scales, from residential homes and commercial buildings to civic and cultural landmarks.</p>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-link">
+                                <h5><span>4</span>Can I see examples of your past work?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>Yes, we invite you to explore our portfolio of past projects, which showcases a diverse range of designs and styles across different sectors. Our portfolio provides a glimpse into our expertise, creativity, and commitment to excellence.</p>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-link">
+                                <h5><span>5</span>What sets your company apart from others in the industry?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>What sets us apart is our unwavering commitment to innovation, collaboration, and client satisfaction. We combine creative design solutions with technical expertise and a client-centric approach.</p>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <div class="accordion-link">
+                                <h5><span>6</span>How can I get started with your services?</h5>
+                                <img src="./assets/arrow-right.svg" />
+                            </div>
+                            <div class="answer">
+                                <p>Getting started with our services is easy. Simply reach out to us via phone, email, or our website contact form to schedule an initial consultation. During this consultation, we'll discuss your project goals, requirements, and timeline, and outline the next steps to get started on turning your vision into reality.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="banner">
         <div class="wrapper">
             <div class="row">
