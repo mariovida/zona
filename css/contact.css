@@ -1,3 +1,60 @@
 .contact {
-  padding: 40px 0 100px;
+  padding: 60px 0 100px;
+}
+.contact-image {
+  height: 600px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.contact-image img {
+  object-fit: cover;
+  object-position: top;
+  width: 100%;
+  height: 100%;
+}
+.contact-form p {
+  margin: 0;
+}
+.contact-form form {
+  margin-top: 50px;
+}
+.contact-form form > div {
+  margin-bottom: 30px;
+}
+.contact-form form > div > div {
+  width: 100%;
+}
+.contact-form form label {
+  font-size: 14px;
+}
+.contact-form form input,
+.contact-form form textarea {
+  width: 100%;
+  font-size: 15px;
+  padding: 8px 0;
+  color: var(--vz-gray-700);
+  border: 0;
+  border-bottom: 1px solid var(--vz-main);
+}
+.contact-form form input:focus,
+.contact-form form textarea:focus {
+  outline: 0;
+}
+.contact-form form input[type="submit"] {
+  width: 140px;
+  float: right;
+  font-size: 14px;
+  line-height: 15px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  color: var(--vz-main);
+  background-color: transparent;
+  padding: 12px 24px;
+  border: 1px solid var(--vz-main);
+  border-radius: 30px;
+  transition: 0.3s;
+}
+.contact-form form input[type="submit"]:hover {
+  color: var(--vz-white);
+  background-color: var(--vz-main);
 }

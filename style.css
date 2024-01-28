@@ -151,6 +151,9 @@ h6 {
 .fw-700 {
   font-weight: 700 !important;
 }
+.mb-0 {
+  margin-bottom: 0 !important;
+}
 .mb-30 {
   margin-bottom: 30px !important;
 }
