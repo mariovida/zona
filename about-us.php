@@ -144,6 +144,63 @@
                     <h3>Meet Our Team</h3>
                 </div>
             </div>
+            <div class="row" style="--bs-gutter-x:4rem">
+                <div class="col-6">
+                    <div class="swiper membersSwiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="members_image">
+                                    <img src="./images/member_1.jpg" />
+                                </div>
+                                <p class="fw-500">Alexander Stone</p>
+                                <span>Founder</span>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="members_image">
+                                    <img src="./images/member_2.jpg" />
+                                </div>
+                                <p class="fw-500">Sophia Martinez</p>
+                                <span>Project Manager</span>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="members_image">
+                                    <img src="./images/member_3.jpg" />
+                                </div>
+                                <p class="fw-500">Emily Clarke</p>
+                                <span>Interior Architecture</span>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="members_image">
+                                    <img src="./images/member_4.jpg" />
+                                </div>
+                                <p class="fw-500">Lucas Carter</p>
+                                <span>Urban Planner</span>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="members_image">
+                                    <img src="./images/member_5.jpg" />
+                                </div>
+                                <p class="fw-500">Olivia Stewart</p>
+                                <span>Landscape Architect</span>
+                            </div>
+                        </div>
+                        <div class="swiper-button-prev">
+                            <img src="./assets/arrow-left.svg" />
+                        </div>
+                        <div class="swiper-button-next">
+                            <img src="./assets/arrow-right.svg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 d-flex flex-column justify-content-center">
+                    <h2>United by passion, our team is dedicated to shaping spaces that inspire and enrich lives.</h2>
+                    <p>Our team is our greatest asset. Comprised of talented architects, designers, engineers, and support staff, we are united by a shared passion for design excellence and a commitment to exceeding client expectations.</p>
+                    <div class="quote">
+                        <p>Alexander Stone</p>
+                        <span>CEO & Founder</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -152,6 +209,7 @@
         include 'inc/footer.php';
     ?>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script>
         const observer = new IntersectionObserver((entries) => {
             entries.forEach((entry) => {
@@ -163,6 +221,16 @@
 
         const hiddenElements = document.querySelectorAll('.hide-image');
         hiddenElements.forEach((el) => observer.observe(el));
+
+        var swiper = new Swiper(".membersSwiper", {
+            slidesPerView: 2,
+            spaceBetween: 30,
+            loop: true,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev'
+            },
+        });
 
         $(".accordion-link").click(function() {
             const parentItem = $(this).closest('.accordion-item');
