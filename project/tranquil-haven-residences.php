@@ -5,7 +5,7 @@
         define('meta', TRUE);
         include 'inc/head.php';
     ?>
-    <title>Azure Waters Apartments | ZONA</title>
+    <title>Tranquil Haven Residences | ZONA</title>
 </head>
 <body>
     <?php
@@ -17,15 +17,15 @@
         <div class="wrapper">
             <div class="row">
                 <div class="col-12 d-flex align-items-end justify-content-between">
-                    <h2>Azure Waters Apartments</h2>
-                    <p><span>Client:</span> James Thompson</p>
+                    <h2>Tranquil Haven Residences</h2>
+                    <p><span>Client:</span> Horizon Development Group</p>
                 </div>
             </div>
         </div>
     </section>
 
     <section class="project_hero">
-        <img src="../images/project_2.jpg" />
+        <img src="../images/project_4.jpg" />
     </section>
 
      <section class="project_info">
@@ -35,23 +35,23 @@
                     <table>
                         <tr>
                             <td class="pt-0">Location</td>
-                            <td class="pt-0 light-color">Liverpool, UK</td>
+                            <td class="pt-0 light-color">Quito, Ecuador</td>
                         </tr>
                         <tr>
                             <td>Date</td>
-                            <td class="light-color">2021</td>
+                            <td class="light-color">2020</td>
                         </tr>
                         <tr>
                             <td>Value</td>
-                            <td class="light-color">€ 71.000</td>
+                            <td class="light-color">€ 1.600.000</td>
                         </tr>
                         <tr>
                             <td>Service</td>
-                            <td class="light-color">Interior Design</td>
+                            <td class="light-color">Architecture, Exterior Design & Interior Design </td>
                         </tr>
                         <tr>
                             <td>Size</td>
-                            <td class="light-color">109 m<sup>2</sup></td>
+                            <td class="light-color">385 m<sup>2</sup></td>
                         </tr>
                     </table>
                 </div>

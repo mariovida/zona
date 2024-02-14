@@ -43,7 +43,7 @@
                         </tr>
                         <tr>
                             <td>Value</td>
-                            <td class="light-color">€ 25.000,00</td>
+                            <td class="light-color">€ 35.000</td>
                         </tr>
                         <tr>
                             <td>Service</td>

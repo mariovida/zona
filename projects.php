@@ -40,7 +40,7 @@
                     </a>
                 </div>
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/azure-waters-apartments">
                         <div class="projects_box-image">
                             <img src="./images/project_2.jpg" />
                             <button><div class="dot"></div>View project</button>
@@ -52,7 +52,7 @@
             </div>
             <div class="row mb-60">
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/serenity-skies-home">
                         <div class="projects_box-image">
                             <img src="./images/project_3.jpg" />
                             <button><div class="dot"></div>View project</button>
@@ -62,7 +62,7 @@
                     </a>
                 </div>
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/tranquil-haven-residences">
                         <div class="projects_box-image">
                             <img src="./images/project_4.jpg" />
                             <button><div class="dot"></div>View project</button>
