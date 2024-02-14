@@ -76,7 +76,7 @@
             </div>
             <div class="row" style="margin-bottom:80px;">
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/harmony-park-residence">
                         <div class="projects_box-image">
                             <img src="./images/project_1.jpg" />
                             <button><div class="dot"></div>View project</button>
@@ -86,7 +86,7 @@
                     </a>
                 </div>
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/azure-waters-apartments">
                         <div class="projects_box-image">
                             <img src="./images/project_2.jpg" />
                             <button><div class="dot"></div>View project</button>

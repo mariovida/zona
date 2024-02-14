@@ -30,7 +30,7 @@
         <div class="wrapper">
             <div class="row mb-60">
                 <div class="col-6">
-                    <a class="projects_box" href="">
+                    <a class="projects_box" href="./project/harmony-park-residence">
                         <div class="projects_box-image">
                             <img src="./images/project_1.jpg" />
                             <button><div class="dot"></div>View project</button>
