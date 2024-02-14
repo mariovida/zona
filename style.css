@@ -164,3 +164,9 @@ h6 {
 .mb-60 {
   margin-bottom: 60px !important;
 }
+.pt-0 {
+  padding-top: 0 !important;
+}
+.light-color {
+  color: var(--vz-gray-700);
+}
