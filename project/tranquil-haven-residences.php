@@ -55,7 +55,17 @@
                         </tr>
                     </table>
                 </div>
-                <div class="col-8">B</div>
+                <div class="col-8">
+                    <div class="project_info-text">
+                        <p>Nestled amidst verdant landscapes and offering panoramic views of the surrounding cityscape, our luxury residential project embodies the epitome of modern urban living. With meticulous attention to detail and a commitment to architectural excellence, this development promises to redefine the standards of luxury living.</p>
+                        <p>At the heart of our design philosophy lies a dedication to creating spaces that seamlessly blend aesthetics with functionality. Each residence is thoughtfully crafted to maximize space and natural light, with open floor plans and floor-to-ceiling windows inviting the outdoors in.</p>
+                        <p>Suspendisse egestas dui pretium ligula purus at ultrices nullam. Justo sit quam sed a sit. Porta lobortis magna imperdiet egestas. Sit urna tempor lectus curabitur lorem nunc. Quisque massa ut nisi sit. Vel morbi nec consectetur feugiat magna egestas posuere iaculis. Ac nulla sed lectus morbi orci viverra. Orci malesuada sed placerat feugiat. Nibh lacus lorem tortor lobortis eget purus ipsum tortor amet. Ligula morbi vitae nulla morbi dolor egestas. Dictumst ullamcorper malesuada volutpat vulputate cras nibh consequat erat pretium.</p>
+                        <p>Volutpat enim venenatis arcu egestas. Id quis et dolor suspendisse cursus interdum. Tincidunt facilisis non lacinia dui nulla vulputate. Euismod scelerisque interdum velit amet enim eget sed sapien. Placerat praesent tincidunt in dui. Egestas consectetur senectus scelerisque lorem est nunc libero ultrices. Arcu vitae morbi mattis lorem sit.</p>
+                        <img src="../images/news/news_2.jpg" />
+                        <p>Volutpat enim venenatis arcu egestas. Id quis et dolor suspendisse cursus interdum. Tincidunt facilisis non lacinia dui nulla vulputate. Euismod scelerisque interdum velit amet enim eget sed sapien. Placerat praesent tincidunt in dui. Egestas consectetur senectus scelerisque lorem est nunc libero ultrices. Arcu vitae morbi mattis lorem sit.</p>
+                        <p>Suspendisse egestas dui pretium ligula purus at ultrices nullam. Justo sit quam sed a sit. Porta lobortis magna imperdiet egestas. Sit urna tempor lectus curabitur lorem nunc. Quisque massa ut nisi sit. Vel morbi nec consectetur feugiat magna egestas posuere iaculis. Ac nulla sed lectus morbi orci viverra. Orci malesuada sed placerat feugiat. Nibh lacus lorem tortor lobortis eget purus ipsum tortor amet. Ligula morbi vitae nulla morbi dolor egestas. Dictumst ullamcorper malesuada volutpat vulputate cras nibh consequat erat pretium.</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

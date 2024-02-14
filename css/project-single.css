@@ -35,6 +35,8 @@
   padding-bottom: 100px;
 }
 .project_info table {
+  position: sticky;
+  top: 30px;
   width: 100%;
   border-collapse: collapse;
 }
@@ -44,5 +46,10 @@
   padding: 12px 0;
   border-bottom: 1px solid var(--vz-gray-400);
 }
-.project_info table tr {
+.project_info-text p {
+  color: var(--vz-gray-700);
+}
+.project_info-text img {
+  width: 100%;
+  margin-bottom: 16px;
 }
