@@ -56,7 +56,7 @@
                                 <span>237</span>
                             </div>
                         </div>
-                        <p>A fusion of modern aesthetics and classical precision, capturing the essence of architectural excellence.</p>
+                        <p>ZONA has been a trusted name in the architectural industry for over a decade. Our journey began with a vision to redefine spaces and create innovative designs that stand the test of time. Since our inception, we have been committed to delivering exceptional architectural solutions that blend functionality with aesthetics, shaping the skylines of tomorrow and leaving a lasting impact on the communities we serve.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@
                             <button><div class="dot"></div>View project</button>
                         </div>
                         <span>Alicante, Spain / 2023</span>
-                        <p>Azure Waters Apartments</p>
+                        <p>Serenity Skies Home</p>
                     </a>
                 </div>
                 <div class="col-6">
@@ -266,6 +266,19 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <h6><img src="./assets/sub-icon.svg" />TESTIMONIALS</h6>
+                </div>
+                <div class="col-12">
+                    <h3>Clients Review</h3>
                 </div>
             </div>
         </div>
