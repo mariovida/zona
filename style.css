@@ -86,3 +86,8 @@ h6 {
 .hide-image.show {
   height: 100% !important;
 }
+
+/* HELPERS */
+.mb-30 {
+  margin-bottom: 30px !important;
+}

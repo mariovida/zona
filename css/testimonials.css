@@ -1,3 +1,33 @@
 .testimonials {
   padding: 40px 0 100px 0;
 }
+.testimonials h3 {
+  line-height: 38px;
+  margin-bottom: 0;
+}
+.testimonials .swiper-button-prev-unique,
+.testimonials .swiper-button-next-unique {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid var(--vz-gray-400);
+  border-radius: 20px;
+  transition: 0.3s;
+}
+.testimonials .swiper-button-prev-unique img,
+.testimonials .swiper-button-next-unique img {
+  width: 16px;
+  height: 16px;
+  transition: 0.3s;
+}
+.testimonials .swiper-button-prev-unique:hover,
+.testimonials .swiper-button-next-unique:hover {
+  background-color: var(--vz-main);
+  border-color: var(--vz-main);
+}
+.testimonials .swiper-button-prev-unique:hover img,
+.testimonials .swiper-button-next-unique:hover img {
+  filter: invert(100%);
+}

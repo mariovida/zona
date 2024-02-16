@@ -277,8 +277,39 @@
                 <div class="col-12">
                     <h6><img src="./assets/sub-icon.svg" />TESTIMONIALS</h6>
                 </div>
-                <div class="col-12">
+                <div class="col-12 mb-30 d-flex align-items-center justify-content-between">
                     <h3>Clients Review</h3>
+                    <div class="d-flex gap-3">
+                        <div class="swiper-button-prev-unique">
+                            <img src="./assets/arrow-left.svg" />
+                        </div>
+                        <div class="swiper-button-next-unique">
+                            <img src="./assets/arrow-right.svg" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="swiper testimonialsSwiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonials_box">
+                                    <div class="testimonials_box-left">
+                                        <img src="./images/christina.jpg" />
+                                    </div>
+                                    <div class="testimonials_box-right"></div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                a
+                            </div>
+                            <div class="swiper-slide">
+                                a
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -289,6 +320,7 @@
         include 'inc/footer.php';
     ?>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script>
         const observer = new IntersectionObserver((entries) => {
             entries.forEach((entry) => {
@@ -300,6 +332,15 @@
 
         const hiddenElements = document.querySelectorAll('.hide-image');
         hiddenElements.forEach((el) => observer.observe(el));
+
+        var swiper = new Swiper(".testimonialsSwiper", {
+            slidesPerView: 2,
+            spaceBetween: 50,
+            navigation: {
+                nextEl: '.swiper-button-next-unique',
+                prevEl: '.swiper-button-prev-unique'
+            },
+        });
     </script>
 </body>
 </html>
