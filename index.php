@@ -359,6 +359,7 @@
                 <div class="col-12">
                     <div class="banner_block">
                         <img src="./images/banner.jpg" />
+                        <h3>Enhance your property's curb appeal with stunning landscape design.</h3>
                     </div>
                 </div>
             </div>

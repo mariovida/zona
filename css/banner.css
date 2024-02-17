@@ -2,6 +2,7 @@
   padding: 40px 0 100px;
 }
 .banner_block {
+  position: relative;
   height: 550px;
   border-radius: 10px;
   overflow: hidden;
@@ -11,4 +12,12 @@
   height: 100%;
   object-fit: cover;
   object-position: bottom;
+}
+.banner_block h3 {
+  width: 600px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  color: var(--vz-white);
+  line-height: 38px;
 }
