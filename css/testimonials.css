@@ -31,3 +31,43 @@
 .testimonials .swiper-button-next-unique:hover img {
   filter: invert(100%);
 }
+.testimonials .testimonials_box {
+  display: flex;
+  justify-content: space-between;
+  height: 370px;
+  cursor: default;
+}
+.testimonials .testimonials_box-left,
+.testimonials .testimonials_box-right {
+  width: 47%;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.testimonials .testimonials_box-left img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.testimonials .testimonials_box-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+  padding: 20px;
+  background-color: var(--vz-beige);
+}
+.testimonials .testimonials_box-right p {
+  font-size: 16px;
+  color: var(--vz-gray-700);
+}
+.testimonials .testimonials_box-info p {
+  font-size: 18px;
+  font-family: ff-secondary;
+  font-weight: 500;
+  color: var(--vz-main);
+  margin-bottom: 0;
+}
+.testimonials .testimonials_box-info span {
+  font-size: 14px;
+  color: var(--vz-gray-700);
+}

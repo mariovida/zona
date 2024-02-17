@@ -296,19 +296,69 @@
                             <div class="swiper-slide">
                                 <div class="testimonials_box">
                                     <div class="testimonials_box-left">
-                                        <img src="./images/christina.jpg" />
+                                        <img src="./images/allison.jpg" />
+                                    </div>
+                                    <div class="testimonials_box-right">
+                                        <p>Their landscape design team is incredibly talented and brought my backyard vision to life in ways I never thought possible. Thank you for creating a beautiful sanctuary for me to enjoy!</p>
+                                        <div class="testimonials_box-info">
+                                            <p>Darlene Robertson</p>
+                                            <span>Las Vegas, USA</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonials_box">
+                                    <div class="testimonials_box-left">
+                                        <img src="./images/juan.jpg" />
+                                    </div>
+                                    <div class="testimonials_box-right">
+                                        <p>Working with ZONA was a pleasure from start to finish. Their professionalism, creativity, and commitment to excellence are unmatched. I highly recommend them to anyone looking for top-notch architectural services.</p>
+                                        <div class="testimonials_box-info">
+                                            <p>Cameron Williamson</p>
+                                            <span>Los Angeles, USA</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonials_box">
+                                    <div class="testimonials_box-left">
+                                        <img src="./images/lucy.jpg" />
                                     </div>
                                     <div class="testimonials_box-right"></div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
-                                a
+                                <div class="testimonials_box">
+                                    <div class="testimonials_box-left">
+                                        <img src="./images/peter.jpg" />
+                                    </div>
+                                    <div class="testimonials_box-right"></div>
+                                </div>
                             </div>
                             <div class="swiper-slide">
-                                a
+                                <div class="testimonials_box">
+                                    <div class="testimonials_box-left">
+                                        <img src="./images/christina.jpg" />
+                                    </div>
+                                    <div class="testimonials_box-right"></div>
+                                </div>
                             </div>
                         </div>
                         <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="banner">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <div class="banner_block">
+                        <img src="./images/banner.jpg" />
                     </div>
                 </div>
             </div>
