@@ -1,6 +1,15 @@
 .services {
   padding: 40px 0 60px 0;
 }
+.services .row {
+  --bs-gutter-y: 1.5rem;
+}
+
+/* PROJECTS PAGE */
+.all_services {
+  padding-top: 0;
+}
+
 .services h3 {
   line-height: 36px;
   margin-bottom: 0;

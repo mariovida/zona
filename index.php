@@ -17,7 +17,7 @@
         <div class="wrapper">
             <div class="row">
                 <div class="col-6">
-                    <h1>Your home, your style. Begin your design adventure</h1>
+                    <h1>Your home, your style. Begin your design adventure.</h1>
                     <p>A fusion of modern aesthetics and classical precision,</br>capturing the essence of architectural excellence.</p>
                     <a href="./projects">Our projects<img src="./assets/btn-arrow.svg" /></a>
                 </div>
