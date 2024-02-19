@@ -50,7 +50,7 @@
                     </a>
                 </div>
             </div>
-            <div class="row">
+            <div class="row mb-60">
                 <div class="col-6">
                     <a class="projects_box" href="">
                         <div class="projects_box-image">
@@ -69,6 +69,50 @@
                         </div>
                         <span>Quito, Ecuador / 2020</span>
                         <p>Tranquil Haven Residences</p>
+                    </a>
+                </div>
+            </div>
+            <div class="row mb-60">
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_6.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Phuket, Thailand / 2022</span>
+                        <p>Panorama Plaza Resort</p>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_5.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Hallstatt, Austria / 2021</span>
+                        <p>Metropolitan Mirage</p>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_8.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Sydney, Australia / 2018</span>
+                        <p>Eco-Terra Residences</p>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="projects_box" href="">
+                        <div class="projects_box-image">
+                            <img src="./images/project_7.jpg" />
+                            <button><div class="dot"></div>View project</button>
+                        </div>
+                        <span>Santo Domingo, Dominican Republic / 2022</span>
+                        <p>Skyline Symmetry Home</p>
                     </a>
                 </div>
             </div>
