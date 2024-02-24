@@ -1,0 +1,29 @@
+.services {
+  padding: 40px 0 60px 0;
+}
+.services_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 480px;
+  padding: 40px;
+  border: 1px solid var(--vz-gray-400);
+  border-radius: 8px;
+  transition: 0.3s;
+}
+.services_box img {
+  width: 120px;
+}
+.services_box span {
+  font-family: ff-secondary;
+  font-size: 20px;
+}
+.services_box p {
+  font-size: 16px;
+  color: var(--vz-gray-700);
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+.services_box:hover {
+  background-color: var(--vz-beige);
+}

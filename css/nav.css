@@ -1,0 +1,45 @@
+nav {
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--vz-gray-700);
+  transition: all 0.3s;
+  z-index: 99;
+}
+nav.main-nav {
+  background-color: var(--vz-beige);
+  border: 0;
+}
+nav .nav-logo a {
+  height: 30px;
+  margin: auto 0;
+}
+nav .nav-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+nav .nav-buttons a {
+  display: block;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--vz-main);
+}
+nav .nav-buttons a:last-of-type {
+  padding: 10px 20px;
+  border: 1px solid var(--vz-main);
+  border-radius: 30px;
+  transition: 0.3s;
+}
+nav .nav-buttons a:last-of-type:hover {
+  color: var(--vz-white);
+  background-color: var(--vz-main);
+}
+
+/* SCROLL ANIMATION */
+nav.change-color {
+}

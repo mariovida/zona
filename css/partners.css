@@ -1,0 +1,11 @@
+.partners {
+  padding-bottom: 60px;
+}
+.partners_logos {
+  display: flex;
+  justify-content: space-between;
+}
+.partners_logos img {
+  height: 34px;
+  filter: grayscale();
+}

@@ -1,0 +1,91 @@
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-Thin.ttf);
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-ExtraLight.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-Light.ttf);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-Medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-SemiBold.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-primary;
+  src: url(../assets/fonts/Inter-ExtraBold.ttf);
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-ExtraLight.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-Light.ttf);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-Medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-SemiBold.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: ff-secondary;
+  src: url(../assets/fonts/InterTight-ExtraBold.ttf);
+  font-weight: 800;
+  font-style: normal;
+}
