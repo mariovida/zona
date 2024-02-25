@@ -57,6 +57,7 @@
                             </div>
                         </div>
                         <p>ZONA has been a trusted name in the architectural industry for over a decade. Our journey began with a vision to redefine spaces and create innovative designs that stand the test of time. Since our inception, we have been committed to delivering exceptional architectural solutions that blend functionality with aesthetics, shaping the skylines of tomorrow and leaving a lasting impact on the communities we serve.</p>
+                        <a href="">Get to know us better<img src="./assets/btn-arrow.svg" /></a>
                     </div>
                 </div>
             </div>

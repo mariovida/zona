@@ -2,12 +2,13 @@
   padding: 120px 0;
 }
 .about .about-info {
-  padding-right: 30px;
+  height: 100%;
+  position: relative;
 }
 .about .about-info-numbers {
   display: flex;
   justify-content: space-between;
-  margin: 50px 0 30px;
+  margin: 60px 0 30px;
 }
 .about .about-info-numbers > div {
   display: flex;
@@ -25,11 +26,38 @@
 .about .about-info p {
   color: var(--vz-gray-700);
 }
+.about .about-info a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  line-height: 15px;
+  text-decoration: none;
+  color: var(--vz-main);
+  padding: 12px 24px;
+  border: 1px solid var(--vz-main);
+  border-radius: 20px;
+  transition: 0.3s;
+}
+.about .about-info a img {
+  width: 15px;
+  height: 15px;
+  margin-left: 8px;
+  transition: 0.3s;
+}
+.about .about-info a:hover {
+  color: var(--vz-white);
+  background-color: var(--vz-main);
+}
+.about .about-info a:hover img {
+  filter: invert(100%);
+}
 .about .about-image {
   max-width: 420px;
   width: 100%;
-  height: 520px;
-  margin-bottom: 16px;
+  height: 500px;
 }
 .about .about-image img {
   object-fit: cover;
