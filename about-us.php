@@ -5,7 +5,7 @@
         define('meta', TRUE);
         include 'inc/head.php';
     ?>
-    <title>Services | ZONA</title>
+    <title>About us | ZONA</title>
 </head>
 <body>
     <?php
@@ -48,13 +48,13 @@
                     <h3>Our Experties</h3>
                 </div>
             </div>
-            <div class="row" style="--bs-gutter-x:6rem">
+            <div class="row" style="--bs-gutter-x:4rem">
                 <div class="col-6">
                     <div class="experties-image">
                         <img src="./images/experties_1.jpg" />
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-6 d-flex align-items-center">
                     <div class="accordion">
                         <div class="accordion-item">
                             <div class="accordion-link" style="padding-top:0">
@@ -129,6 +129,19 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="members">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12">
+                    <h6><img src="./assets/sub-icon.svg" />MEMBERS</h6>
+                </div>
+                <div class="col-12">
+                    <h3>Meet Our Team</h3>
                 </div>
             </div>
         </div>
