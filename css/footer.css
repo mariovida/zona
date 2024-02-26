@@ -1,4 +1,44 @@
 footer {
-  height: 400px;
+  color: var(--vz-white);
+  padding-top: 60px;
   background-color: var(--vz-main);
+}
+footer .footer_logo {
+  height: 50px;
+  filter: invert(100%);
+}
+footer span {
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 12px;
+}
+footer .footer_links p {
+  font-size: 16px;
+  color: var(--vz-gray-400);
+}
+footer .footer_links a {
+  width: fit-content;
+  display: block;
+  font-size: 15px;
+  line-height: 18px;
+  text-decoration: none;
+  margin-bottom: 6px;
+  color: var(--vz-gray-600);
+}
+.footer_border {
+  margin-top: 60px;
+  height: 1px;
+  background-color: var(--vz-gray-600);
+}
+footer h6 {
+  display: unset;
+  font-size: 14px;
+  color: var(--vz-gray-600);
+  margin-bottom: 0;
+  padding: 20px 0;
+}
+footer .git-btn {
+  width: 20px;
+  height: 20px;
+  filter: invert(100%);
 }
