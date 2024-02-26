@@ -297,7 +297,7 @@
                                 <img src="./assets/arrow-right.svg" />
                             </div>
                             <div class="answer">
-                                <p>Our company offers a comprehensive range of architectural services, including residential design, commercial architecture, interior architecture, urban planning, sustainable design, renovation, and restoration.</p>
+                                <p>We offer a wide range of architectural services, including residential and commercial design, interior design, urban planning, landscape architecture, and construction management. Whether you're looking to build a new home, renovate an existing space, or develop a large-scale commercial project, our team is here to help.</p>
                             </div>
                         </div>
                         <div class="accordion-item">
@@ -306,7 +306,7 @@
                                 <img src="./assets/arrow-right.svg" />
                             </div>
                             <div class="answer">
-                                <p>Project timelines vary depending on the complexity of the project and other factors such as approvals and permits. We provide estimated timelines during the initial consultation phase.</p>
+                                <p>The timeline for a project can vary depending on its size, complexity, and other factors. A small-scale residential renovation may take a few months, while a large-scale commercial development could take several years. Our team will work closely with you to establish clear timelines and milestones, and we'll keep you informed every step of the way.</p>
                             </div>
                         </div>
                         <div class="accordion-item">
