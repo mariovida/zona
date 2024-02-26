@@ -53,3 +53,36 @@
   width: 100%;
   margin-bottom: 16px;
 }
+.project_info-navigation {
+  padding-top: 40px;
+}
+.project_info-navigation a {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--vz-main);
+  padding: 12px 24px;
+  border: 1px solid var(--vz-main);
+  border-radius: 30px;
+  transition: 0.3s;
+}
+.project_info-navigation a img.next,
+.project_info-navigation a img.prev {
+  width: 15px;
+  height: 15px;
+  margin-left: 8px;
+  transition: 0.3s;
+}
+.project_info-navigation a img.prev {
+  margin-left: 0;
+  margin-right: 8px;
+}
+.project_info-navigation a:hover {
+  color: var(--vz-white);
+  background-color: var(--vz-main);
+}
+.project_info-navigation a:hover img {
+  filter: invert(100%);
+}

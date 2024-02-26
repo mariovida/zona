@@ -68,6 +68,9 @@
                         <p>Vivamus risus ante, viverra vitae elit in, varius laoreet nibh. Integer quis venenatis sem. Duis in tristique lectus. Pellentesque feugiat erat tortor, quis dapibus nunc hendrerit nec. Integer eget odio euismod, gravida ante sed, viverra libero. Aliquam a orci diam. Suspendisse potenti. Mauris et augue at erat viverra placerat.</p>
                         <p>Cras blandit, tortor ut venenatis aliquet, libero ex sagittis tortor, vitae ullamcorper dui lacus blandit tellus. Aliquam erat volutpat. Nam elementum rhoncus neque, ut sagittis purus facilisis et. Donec fringilla ex id felis sagittis suscipit. Donec luctus pharetra tellus, quis gravida est ultricies in. Proin id dolor ipsum. Fusce congue turpis at turpis malesuada, sed pharetra arcu aliquet. Curabitur condimentum felis sed ex dictum dignissim. Nulla dignissim a tellus sit amet placerat.</p>
                     </div>
+                    <div class="project_info-navigation d-flex justify-content-end">
+                        <a href="./azure-waters-apartments">Next project<img src="../assets/arrow-right.svg" /></a>
+                    </div>
                 </div>
             </div>
         </div>

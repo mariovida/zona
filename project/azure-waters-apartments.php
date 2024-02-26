@@ -70,6 +70,10 @@
                         <img src="../images/news/news_5.jpg" />
                         <p>Duis dictum eros vel tellus aliquet lobortis. Nam mattis scelerisque pellentesque. Vestibulum malesuada, sem nec laoreet maximus, lacus ipsum gravida quam, eget iaculis ligula purus et quam. Curabitur blandit lorem eget mauris consectetur gravida. Morbi vitae odio faucibus, fringilla enim et, hendrerit magna. In hac habitasse platea dictumst. Proin id lectus mattis, dictum felis et, posuere augue.</p>
                     </div>
+                    <div class="project_info-navigation d-flex justify-content-between">
+                        <a href="./harmony-park-residence"><img class="prev" src="../assets/arrow-left.svg" />Previous project</a>
+                        <a href="./serenity-skies-home">Next project<img class="next" src="../assets/arrow-right.svg" /></a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -71,6 +71,10 @@
                         <p>Integer eget nulla eu erat tincidunt fermentum. Nullam sit amet nibh hendrerit dui malesuada suscipit vel sit amet diam. Sed a viverra odio, sed semper diam. Pellentesque non blandit nulla. Maecenas commodo urna libero, eget viverra ex maximus id.</p>
                         <p>Aliquam tempor non ipsum at fringilla. Curabitur ac viverra ipsum. Morbi erat ligula, vulputate a mauris eget, facilisis vestibulum urna. Quisque ultrices tortor id tempor pulvinar. Mauris imperdiet ultrices sagittis. Vivamus pellentesque diam non ultrices tristique. Fusce id laoreet mauris. Pellentesque ullamcorper vehicula erat eu tristique. Sed sed consequat metus. Nullam ac nibh vitae quam hendrerit malesuada. Integer eleifend risus quis dui ornare consequat. Integer felis quam, porta rutrum massa in, vestibulum porta massa. Etiam eu mi eget sem dictum tincidunt.</p>
                     </div>
+                    <div class="project_info-navigation d-flex justify-content-between">
+                        <a href="./azure-waters-apartments"><img class="prev" src="../assets/arrow-left.svg" />Previous project</a>
+                        <a href="./tranquil-haven-residences">Next project<img class="next" src="../assets/arrow-right.svg" /></a>
+                    </div>
                 </div>
             </div>
         </div>
