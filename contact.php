@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-5">
                     <div class="contact-image">
-                        <img src="./images/consultation.jpg" />
+                        <img src="./images/consultation.jpg" class="hide-image" />
                     </div>
                 </div>
             </div>
@@ -80,5 +80,18 @@
         define('footer', TRUE);
         include 'inc/footer.php';
     ?>
+
+    <script>
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if(entry.isIntersecting) {
+                    entry.target.classList.add('show');
+                }
+            });
+        });
+
+        const hiddenElements = document.querySelectorAll('.hide-image');
+        hiddenElements.forEach((el) => observer.observe(el));
+    </script>
 </body>
 </html>
